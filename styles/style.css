@@ -75,6 +75,7 @@ h2{
 	color: rgba(78, 111, 174, 1);
 	font-weight: 700;
 	margin-top: 8px;
+	font-family: ALK Rex Bold;
 }
 
 .text{
@@ -99,7 +100,8 @@ img{
 }
 
 p{
-	color: rgba(78, 111, 174, 1)
+	color: rgba(78, 111, 174, 1);
+    font-family: ALK Life ;
 }
 
 #dt{
